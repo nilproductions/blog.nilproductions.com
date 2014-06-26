@@ -36,5 +36,10 @@ params:
       facebook:   false
       gplus:      false
       hn:         false
+
+    analytics:
+      piwik:
+        domain: piwik.imperialwicket.com
+        siteid: 2
       
     # Setup your fonts, colors etc at _assets/stylesheets/main.scss
