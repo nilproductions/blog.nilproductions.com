@@ -1,0 +1,40 @@
+---
+
+baseurl:            http://blog.nilproductions.com/
+pygmentsuseclasses: true 
+theme:              hugo-incorporated
+
+params:
+  inc:
+    # Blog Information
+    title:        "nil productions blog"
+#    subtitle:     "Modern Hugo based blog for companies"
+#    cover_image:  blog-cover.jpg
+    logo:         logo.png
+    
+    # Company information
+    company:      nil productions 
+    url:          http://nilproductions.com/
+#    facebook:     
+    github:       nilproductions
+    twitter:      nw_iw
+#    gplus:        ''
+    about_link:   http://nilproductions.com/
+    
+    # Product Information
+#    product_link: http://nilproductions.com/
+#    tagline:      "Coming up nil for quite some time."
+    
+    # Comments
+    disqus:
+      # Eg. "exampleblog" Set to false to disable comments
+      shortname:  false
+    
+    # Sharing settings
+    sharing:
+      twitter:    false
+      facebook:   false
+      gplus:      false
+      hn:         false
+      
+    # Setup your fonts, colors etc at _assets/stylesheets/main.scss
